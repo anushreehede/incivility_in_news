@@ -2,7 +2,7 @@
 
 ## Incivility in News
 
-*Update*: We are working on the public release of the dataset. In case you need to access our data in the meantime, please email the authors at anuhede@seas.upenn.edu, oagarwal@seas.upenn.edu or nenkova@seas.upenn.edu.
+*Update*: We are working on the public release of the dataset. In the meantime, if you need to access the data, please email us at anuhede@seas.upenn.edu, oagarwal@seas.upenn.edu and nenkova@seas.upenn.edu.
 
 ---
 
